@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d0697b7c946458e865e20e20fa549c, type: 3}
+  m_Name: 53_Male_37_White_870
+  m_EditorClassIdentifier: 
+  census:
+    id: 53
+    income_50k: '- 50000.'
+    age: 37
+    class_worker: Private
+    education: High school graduate
+    wage_per_hour: 0
+    hs_college: Not in universe
+    marital_stat: Married-civilian spouse present
+    race: White
+    hisp_origin: All other
+    sex: Male
+    unemp_reason: Not in universe
+    country_father: United-States
+    country_mother: United-States
+    country_self: United-States
+    citizenship: Native- Born in the United States
+  characterPrefab: {fileID: 4975196427270685991, guid: 7a02d224946f54dcf8750db6cf81e302, type: 3}

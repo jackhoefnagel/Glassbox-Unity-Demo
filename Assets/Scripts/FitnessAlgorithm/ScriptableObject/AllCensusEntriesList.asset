@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e060aa914b92843219e2a4873193e125, type: 3}
+  m_Name: AllCensusEntriesList
+  m_EditorClassIdentifier: 
+  censusEntriesList:
+    l_income_50k:
+    - '- 50000.'
+    - 50000+.
+    l_age: 490000003a00000012000000090000000a000000300000002a0000001c0000002f000000220000000800000020000000330000002e0000001a0000000d0000002700000010000000230000000c0000001b0000003800000037000000020000000100000025000000040000003f00000019000000510000000b0000001e000000070000004200000054000000340000000500000024000000480000003d000000290000005a0000003100000006000000000000002100000039000000320000001800000011000000350000002800000036000000160000001d00000055000000260000004c000000150000001f0000004a000000130000000f000000030000002b00000044000000470000002d000000
+    l_class_worker:
+    - Not in universe
+    - Self-employed-not incorporated
+    - Private
+    - Local government
+    - Federal government
+    - Self-employed-incorporated
+    - State government
+    l_education:
+    - High school graduate
+    - Some college but no degree
+    - 10th grade
+    - Children
+    - Bachelors degree(BA AB BS)
+    - Masters degree(MA MS MEng MEd MSW MBA)
+    - Less than 1st grade
+    - Associates degree-academic program
+    - 7th and 8th grade
+    - 12th grade no diploma
+    - Associates degree-occup /vocational
+    - Prof school degree (MD DDS DVM LLB JD)
+    - 5th or 6th grade
+    - 11th grade
+    - Doctorate degree(PhD EdD)
+    - 9th grade
+    - 1st 2nd 3rd or 4th grade
+    l_wage_per_hour: 00000000b00400006c030000f401000090010000
+    l_hs_college:
+    - Not in universe
+    - High school
+    - College or university
+    l_marital_stat:
+    - Widowed
+    - Divorced
+    - Never married
+    - Married-civilian spouse present
+    - Separated
+    - Married-spouse absent
+    l_race:
+    - White
+    - Asian or Pacific Islander
+    - Amer Indian Aleut or Eskimo
+    - Black
+    - Other
+    l_hisp_origin:
+    - All other
+    - Do not know
+    - Central or South American
+    - Mexican (Mexicano)
+    - Mexican-American
+    - Other Spanish
+    - Puerto Rican
+    - Cuban
+    l_sex:
+    - Female
+    - Male
+    l_unemp_reason:
+    - Not in universe
+    - Job loser - on layoff
+    - Other job loser
+    l_country_father:
+    - United-States
+    - Vietnam
+    - Philippines
+    - '?'
+    - Columbia
+    - Germany
+    - Mexico
+    - Japan
+    - Peru
+    - Dominican-Republic
+    - South Korea
+    - Cuba
+    - El-Salvador
+    - Canada
+    l_country_mother:
+    - United-States
+    - Vietnam
+    - '?'
+    - Columbia
+    - Mexico
+    - El-Salvador
+    - Peru
+    - Puerto-Rico
+    - Cuba
+    - Philippines
+    - Dominican-Republic
+    - Germany
+    - England
+    l_country_self:
+    - United-States
+    - Vietnam
+    - '?'
+    - Columbia
+    - Mexico
+    - Peru
+    - Cuba
+    - Philippines
+    - Dominican-Republic
+    - El-Salvador
+    - Canada
+    l_citizenship:
+    - Native- Born in the United States
+    - Foreign born- Not a citizen of U S
+    - Foreign born- U S citizen by naturalization

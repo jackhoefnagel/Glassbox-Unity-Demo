@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d0697b7c946458e865e20e20fa549c, type: 3}
+  m_Name: 6_Female_48_Amer Indian Aleut or Eskimo_728
+  m_EditorClassIdentifier: 
+  census:
+    id: 6
+    income_50k: '- 50000.'
+    age: 48
+    class_worker: Private
+    education: Some college but no degree
+    wage_per_hour: 1200
+    hs_college: Not in universe
+    marital_stat: Married-civilian spouse present
+    race: Amer Indian Aleut or Eskimo
+    hisp_origin: All other
+    sex: Female
+    unemp_reason: Not in universe
+    country_father: Philippines
+    country_mother: United-States
+    country_self: United-States
+    citizenship: Native- Born in the United States
+  characterPrefab: {fileID: 1837358076554429720, guid: 3ea4f7a2717b244caa3a2b2fa1c877d9, type: 3}

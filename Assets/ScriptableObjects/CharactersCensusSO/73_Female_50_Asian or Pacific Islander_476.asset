@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d0697b7c946458e865e20e20fa549c, type: 3}
+  m_Name: 73_Female_50_Asian or Pacific Islander_476
+  m_EditorClassIdentifier: 
+  census:
+    id: 73
+    income_50k: '- 50000.'
+    age: 50
+    class_worker: Private
+    education: Bachelors degree(BA AB BS)
+    wage_per_hour: 0
+    hs_college: Not in universe
+    marital_stat: Married-civilian spouse present
+    race: Asian or Pacific Islander
+    hisp_origin: All other
+    sex: Female
+    unemp_reason: Not in universe
+    country_father: Philippines
+    country_mother: Philippines
+    country_self: Philippines
+    citizenship: Foreign born- U S citizen by naturalization
+  characterPrefab: {fileID: 6336439780595305222, guid: e692fb04aba95454bb3f46fe6b0f802f, type: 3}
